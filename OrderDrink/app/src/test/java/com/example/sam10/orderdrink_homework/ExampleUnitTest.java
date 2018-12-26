@@ -1,4 +1,4 @@
-package com.example.sam10.orderdrink;
+package com.example.sam10.orderdrink_homework;
 
 import org.junit.Test;
 

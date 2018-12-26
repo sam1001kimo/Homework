@@ -1,8 +1,10 @@
 <resources>
-    <string name="app_name">OrderDrink</string>
-    <string-array name="types">
-        <item>紅茶</item>
-        <item>綠茶</item>
-        <item>烏龍茶</item>
+    <string name="app_name">OrderDrink-homework</string>
+    <string-array name="item">
+        <item>紅茶20元</item>
+        <item>綠茶20元</item>
+        <item>烏龍茶20元</item>
+        <item>花茶35元</item>
+        <item>奶茶35元</item>
     </string-array>
 </resources>

@@ -1,4 +1,4 @@
-package com.example.sam10.orderdrink;
+package com.example.sam10.orderdrink_homework;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.sam10.orderdrink", appContext.getPackageName());
+        assertEquals("com.example.sam10.orderdrink_homework", appContext.getPackageName());
     }
 }
