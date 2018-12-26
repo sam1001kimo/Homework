@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OrderDrink</string>
+    <string-array name="types">
+        <item>紅茶</item>
+        <item>綠茶</item>
+        <item>烏龍茶</item>
+    </string-array>
+</resources>
